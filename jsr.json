@@ -1,0 +1,8 @@
+{
+  "name": "@colesquad/learn-jsr",
+  "version": "0.0.1",
+  "exports": {
+      "main": "index.mjs",
+      "library": "src/js/library/lib.mjs"
+  }
+}
