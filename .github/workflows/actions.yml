@@ -1,6 +1,4 @@
 name: Publish
-description: "Learning jsr with publish actions from Github"
-author: "colecmc@correctlydesigned.net"
 on:
   push:
     branches:
